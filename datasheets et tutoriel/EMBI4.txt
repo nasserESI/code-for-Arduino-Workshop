@@ -1,0 +1,5 @@
+ACS712
+
+résistance 1.2mOhm
+facteur de conversion 66mV car 30 Ampère
+bande passante de 80kHZ
